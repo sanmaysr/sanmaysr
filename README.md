@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Sanmay S R
 
-<!--
-**sanmaysr/sanmaysr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Third-year Information Science student at [RVITM](https://rvitm.edu.in)  
+🧠 Passionate about Machine Learning, AI, and tech that impacts lives  
+🧩 Founder & President of the RVITM Cubing Association  
+💼 WCA Advisory Council Member (India, 2023–24)  
+ 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ My Skills
+- Languages: Python, C, C++, Java
+- Tools & Tech: Git, PyTorch, TensorFlow, NumPy, Pandas
+- Interests: Neural Networks, Transformers, Computer Vision, EdTech
+
+---
+
+## 📈 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanmaysr&layout=compact&theme=gruvbox)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanmaysr&show_icons=true&theme=gruvbox)
+
+---
+
+## 🚀 Let's Connect
+- LinkedIn: [linkedin.com/in/sanmay-sr](https://linkedin.com/in/sanmay-sr)
+- Website: [sanmaysr.in](https://sanmaysr.in)
